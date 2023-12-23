@@ -42,6 +42,7 @@ yocto project: itenables developers to create custom Linux-based systems for emb
 - [Contact Information](#contact-information)
 
 ## overview-of-system:
+
 ![first-image](https://github.com/waleedelfieky/Yocto-core-image-image-minimal/assets/126036494/c5c1f72c-67a3-4b18-a938-6ed12a292599)
 
 
