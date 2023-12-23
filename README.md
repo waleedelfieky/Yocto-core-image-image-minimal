@@ -26,7 +26,7 @@ this is a practical guide for beginner to describe them how could they customize
 
 ## A collection of markdown notes on Yocto simple project for beginners
 
-yocto project: itenables developers to create custom Linux-based systems for embedded devices. It offers tools for building Linux distributions.
+yocto project: it enables developers to create custom Linux-based systems for embedded devices. It offers tools for building Linux distributions.
   
 ## Table of Contents:
 
@@ -43,7 +43,7 @@ yocto project: itenables developers to create custom Linux-based systems for emb
 
 ## overview-of-system:
 
-![first-image](https://github.com/waleedelfieky/Yocto-core-image-image-minimal/assets/126036494/c5c1f72c-67a3-4b18-a938-6ed12a292599)
+![first-image](https://github.com/waleedelfieky/Yocto-core-image-image-minimal/assets/126036494/f0421e8e-2b76-4110-8df6-0d543829231a)
 
 
 ## prepare-host:
