@@ -37,7 +37,7 @@ yocto project: itenables developers to create custom Linux-based systems for emb
 - [source-the-varibales-and-utilites-needed](#source-the-varibales-and-utilites-needed)
 - [choose-machine](#choose-machine)
 - [choose-image-recipe](#choose-image-recipe)
-- [#build-image](#build-image)
+- [build-image](#build-image)
 - [Test-on-qemu](#Test-on-qemu)
 - [Contact Information](#contact-information)
 
